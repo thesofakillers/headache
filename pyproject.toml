@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "headache"
+version = "0.1.0"
+description = "Dashboard for visualising data surrounding my headaches"
+authors = ["Giulio Starace <giulio.starace@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+pandas = "^1.2.1"
+dash = "^1.19.0"
+
+[tool.poetry.dev-dependencies]
+jupyterlab = "^3.0.7"
+jupyterlab-code-formatter = "^1.4.3"
+black = "^20.8b1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
