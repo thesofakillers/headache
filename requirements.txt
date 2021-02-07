@@ -1,99 +1,22 @@
-anyio @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/8b/7e/e9/df5ce9471acc6caae802090938b18215f52886eafd7aff70f2a7e7554a/anyio-2.0.2-py3-none-any.whl
-appdirs @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/13/9e/45/de9aff042cbd8e14716eb6a553c3eb75e8d313cc1738477a933a926d87/appdirs-1.4.4-py2.py3-none-any.whl
-appnope @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/cb/a3/2c/9d87cc3a7e7d3806173794eb74971c79cfa1875935fcdb0022c9a56bee/appnope-0.1.2-py2.py3-none-any.whl
-argon2-cffi @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/25/33/b8/f57cc6260f718196006567592e5b171971ccbddf1c3751d17d2917ce88/argon2_cffi-20.1.0-cp37-abi3-macosx_10_6_intel.whl
-astroid @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/b4/d6/b2/89cdb06b76ec5d630179d07b276194f11ba65df7e23ae801173a39a32a/astroid-2.4.2-py3-none-any.whl
-async-generator @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/5a/c9/85/708dc64d76e0faea9f132181d1f9589bfab62218ac9bbef7d6cfc821d2/async_generator-1.10-py3-none-any.whl
-attrs @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/ae/b3/61/38a043abdba5ba4c0c510dde549dd1c8278bf56262dc5df55c19133a02/attrs-20.3.0-py2.py3-none-any.whl
-Babel @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/0d/6c/d0/f735d4d0af68640ee69adddc80d3ecf336156e84c4ccf2078c8fe9e38b/Babel-2.9.0-py2.py3-none-any.whl
-backcall @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/d9/1c/14/88957e7a43c92c6678d8ca482196186836144475c67d11ff02a4ee2194/backcall-0.2.0-py2.py3-none-any.whl
-black @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/7b/6c/d2/efd4b805b84f116ba160490326d5b62df63da44b88a84e2b1e9042ac7f/black-20.8b1.tar.gz
-bleach @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/0c/19/da/291df1a8b71e9bd208e3e6f801afd6567b9ef47036b167c11e25f5c96c/bleach-3.3.0-py2.py3-none-any.whl
-Brotli @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/d0/d8/ec/a95aece1ee820abdf7da47bba5097fff9af08d61ef4680951f8cd84f45/Brotli-1.0.9-cp37-cp37m-macosx_10_9_x86_64.whl
-certifi==2020.12.5
-cffi @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/33/3c/d8/e315c1225da05477d080fc9baa3bc54201dbcffc25ef4ce06a95ec341c/cffi-1.14.4-cp37-cp37m-macosx_10_9_x86_64.whl
-click @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/21/fd/0f/f7ff619e0ab099fc284ee2b24a86129d9dc3ad2a475dc304bbbbe20ecb/click-7.1.2-py2.py3-none-any.whl
-cycler @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/9c/d7/b0/dfa9603bb99384947661c58e61ad1b66acd1a2ba6f0d767c9d85a6c1f0/cycler-0.10.0-py2.py3-none-any.whl
-dash @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/f9/3a/78/b34f311d9029c4a5fa42303651c6f6463e35c4e295c5fe107df47cc541/dash-1.19.0.tar.gz
-dash-core-components @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/71/ab/d1/6d4a6ac1b612768c295486e3e77117b835d76355beaa46b61d9b6bc57a/dash_core_components-1.15.0.tar.gz
-dash-html-components @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/c3/ae/ab/05a83121ef83cecd35c0d062297bd511ed29c74d494292791823a5a911/dash_html_components-1.1.2.tar.gz
-dash-renderer @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/b5/4f/22/2833665553143c55f354904c818b109967a8b020d4b9a7c2fdb1a839fb/dash_renderer-1.9.0.tar.gz
-dash-table @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/ba/ac/df/8a90ba32bf0c4d27be3d794ce7477c6974b593a1706b78caad6226c8c5/dash_table-4.11.2.tar.gz
-decorator @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/e0/49/17/9a08edb2207e858afcdec201eff4a7198829cbcdbe7950f54a0bc9dd7e/decorator-4.4.2-py2.py3-none-any.whl
-defusedxml @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/61/a0/56/6920612f00516897222ae6e2cfe57cb9bdacc3113a04fdbec62e8d6c45/defusedxml-0.6.0-py2.py3-none-any.whl
-entrypoints @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/5e/99/ed/7ceb3b7ba71bc66f2526e7ffc16315bfdb5bf955fe1051ec05516f7730/entrypoints-0.3-py2.py3-none-any.whl
-Flask @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/33/39/37/7cf96ea898caffe42e6c70f412d3bc59c4adcb7e6887972b3558816f64/Flask-1.1.2-py2.py3-none-any.whl
-Flask-Compress @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/72/95/d5/ceb6358377e6bd04ff8520f7b89849128ab4890ff31340feab10184579/Flask_Compress-1.8.0-py3-none-any.whl
-future @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/d5/e0/90/293576a89a38754c23b835070b615a1c3d5f913ece9a599004238a3154/future-0.18.2.tar.gz
-gunicorn @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/10/f9/b2/39dc4bd04943f92357163e8d19993e2ad4f9d2f14b73f08c5c396865e7/gunicorn-20.0.4-py2.py3-none-any.whl
-idna @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/82/6e/32/b43edc11828a76b5b709b997be35c5d1253bc6a95e5f0b83a0a67a3fc8/idna-3.1-py3-none-any.whl
-importlib-metadata @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/53/02/29/21864680657029519619029e22864fd2c924eb719c2f7d60da73387b8c/importlib_metadata-3.4.0-py3-none-any.whl
-ipykernel @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/98/d0/33/bdacabc31401e4c9baacb22c746774e39bf41d974b10ed33ce062384aa/ipykernel-5.4.3-py3-none-any.whl
-ipython @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/08/c2/d9/28f1b0766fe515f33f946aa17bca75cb5decb02457c673feecf92a2de6/ipython-7.20.0-py3-none-any.whl
-ipython-genutils @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/2c/69/c6/e1f2fd156ee87f59d0c32acc921a0da31121b0c7c192b1b9ac0908111d/ipython_genutils-0.2.0-py2.py3-none-any.whl
-isort @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/ad/5c/7b/1a2418db44496dea1cb955ac098d750ab38758612ed2ec11b7f4570122/isort-5.7.0-py3-none-any.whl
-itsdangerous @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/f5/ad/11/ab8b44586140a9be00f3738bf42440ebcbc8588ab993a20c69dbab22ed/itsdangerous-1.1.0-py2.py3-none-any.whl
-jedi @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/1b/c9/89/e6d1f3a2cb2069fa5cacdaf2b474f924b727f0c38edd54d886e07a75bc/jedi-0.18.0-py2.py3-none-any.whl
-Jinja2 @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/47/18/a4/1905063a877fa68496ecb2e347fc04c431948d96cf825a0960da5791e0/Jinja2-2.11.3-py2.py3-none-any.whl
-json5 @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/49/a6/3d/6f3af930ab8d7869178b027ca805a09db8073be72d47891b7f142a2f29/json5-0.9.5-py2.py3-none-any.whl
-jsonschema @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/a2/e2/79/5896dfe12b442a5a7583226fb0d61aec227575025e5ac51deecf719547/jsonschema-3.2.0-py2.py3-none-any.whl
-jupyter-client @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/b8/1d/d6/45b7dfb69f5f2235e90d33d1074e2442d04aabc857fb482305cc15bdcd/jupyter_client-6.1.11-py3-none-any.whl
-jupyter-core @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/6c/b4/0a/8912b11fb38e65e26cdf07a09561b340b0a6f4f5cc4b03dc17f8f678db/jupyter_core-4.7.1-py3-none-any.whl
-jupyter-server @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/b9/b4/80/201b94e1dc20ba96b9e484fe5057364ef1274d9846e42ba7212272215c/jupyter_server-1.3.0-py3-none-any.whl
-jupyterlab @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/03/68/0c/58e330f30e9d0aadd188279f589752c37fe1bf811fa95bc2290929f00f/jupyterlab-3.0.7-py3-none-any.whl
-jupyterlab-code-formatter @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/23/bf/30/37b71a24c8bc8989b45da994f0852c97685f2dc1c92f2cdf4e8f2d0169/jupyterlab_code_formatter-1.4.3-py3-none-any.whl
-jupyterlab-pygments @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/92/13/97/3ba1dbd6e97ac9bf843bceb4d66902ecd4dab945d10002cc16d0daa1d8/jupyterlab_pygments-0.1.2-py2.py3-none-any.whl
-jupyterlab-server @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/a6/32/cc/6e58b741c01e4e636e466dd109aa0b3cb96d1608ea59d3724e1a4e7308/jupyterlab_server-2.2.0-py3-none-any.whl
-kiwisolver @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/36/f4/11/0e4574d6a1c5c6b7c21ecfdc4dcc73f98ea9b0fe02051ad0025b8390a2/kiwisolver-1.3.1-cp37-cp37m-macosx_10_9_x86_64.whl
-lazy-object-proxy @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/68/c0/89/9caf57a9237e87081761e1b7dadc6c835ef9703bc7c2ccaf2e49c6942d/lazy_object_proxy-1.4.3-cp37-cp37m-macosx_10_13_x86_64.whl
-MarkupSafe @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/61/56/5d/f36b9a42a230b05480bc740bb30fbad8663ccdaee8946c4bfddab13d92/MarkupSafe-1.1.1-cp37-cp37m-macosx_10_9_x86_64.whl
-matplotlib @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/38/d3/1f/17a05cc53956d718c041ab3aaede435031b3afa4e11100edb5d920d71c/matplotlib-3.3.4-cp37-cp37m-macosx_10_9_x86_64.whl
-mccabe @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/c2/cd/ed/3c4495a1422fb12eefbca8b3c6ccc83ab4ec92fd39df029199cc4f4ee4/mccabe-0.6.1-py2.py3-none-any.whl
-mistune @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/80/fd/6c/c86cb01dda756e2e899197f574484928622e9ad453d90761abac9e1948/mistune-0.8.4-py2.py3-none-any.whl
-mypy-extensions @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/41/fb/ef/133cd18a3e22a06b8d77dfe2ba71c50c509e4d2484ee619c6631c0b5b2/mypy_extensions-0.4.3-py2.py3-none-any.whl
-nbclassic @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/35/b8/80/c03dcf94528e400eb31c3d31895a7dcf6bd28243b29c4c66f777702dec/nbclassic-0.2.6-py3-none-any.whl
-nbclient @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/3f/55/c9/afc93bc8bb49a19bfbe75c3ff92b611d77d13e367c3cab5fc1b4d5a3cd/nbclient-0.5.1-py3-none-any.whl
-nbconvert @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/9f/b0/34/add1712e9bfa620ab77d2d5d5603591edc85cd6c4ba1a40b4385befda2/nbconvert-6.0.7-py3-none-any.whl
-nbformat @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/96/05/79/86425d16ce9bfa3b794420a4cab4b179b3670edc4274f41db44c32b284/nbformat-5.1.2-py3-none-any.whl
-nest-asyncio @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/a6/03/5a/2c77454326bb7a0a235ae4a78437c007a6ef2631cf40b34da26b5729c4/nest_asyncio-1.5.1-py3-none-any.whl
-notebook @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/08/d8/26/fe1dfdf77c7130d47b4d94ebfb8306c764bb29fb464b7c27480914c439/notebook-6.2.0-py3-none-any.whl
-numpy @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/5a/00/cb/9eeb90d29175aea2a8f93d62976f0c606ffbbb686659c7da665bb41681/numpy-1.20.0-cp37-cp37m-macosx_10_9_x86_64.whl
-packaging @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/bf/c9/4b/d4c56a8494978126d690da73a04dfe71b97fa991e52f1634afc46f263e/packaging-20.9-py2.py3-none-any.whl
-pandas @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/46/c4/aa/5592b5d715a72178f39ea554a45e0a495f8d7e45ac88254174e13b4765/pandas-1.2.1-cp37-cp37m-macosx_10_9_x86_64.whl
-pandocfilters @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/95/80/e1/8047532d4a0988efe4c86231e4aede0125e9bb1dcd96dc7208e29099e6/pandocfilters-1.4.3.tar.gz
-parso @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/2c/68/e5/39511d10837debd6e535e49e595b33383c20ce56ad180295f35953bd0e/parso-0.8.1-py2.py3-none-any.whl
-pathspec @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/d3/5f/9e/9c6b0f740c5d2430d10e5d6f50db88d8ffaab034156351d3fb698bd3c5/pathspec-0.8.1-py2.py3-none-any.whl
-pexpect @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/ac/ff/fd/e4fa201b733fa24e77b6e0f8e1a2e0e9d4bd7cb1936861c9b12e4653a0/pexpect-4.8.0-py2.py3-none-any.whl
-pickleshare @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/e3/49/c6/dda859db430eaa2b27acc6a8bab879e41d2bf09e99f792343ccc9d1fef/pickleshare-0.7.5-py2.py3-none-any.whl
-Pillow @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/aa/1a/97/851c852634599076aa3960165efc38cd071ddfacf6c2f8e2f0e5f6154c/Pillow-8.1.0-cp37-cp37m-macosx_10_10_x86_64.whl
-plotly @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/91/f7/a9/b49a25287e9fe4facccc0d03b470c6b0c713681b26b60fad3a05c0fd19/plotly-4.14.3-py2.py3-none-any.whl
-prometheus-client @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/e5/34/f2/b801e8990cd274a316b37dfafee3de72466f55bf15a829cea317e4193b/prometheus_client-0.9.0-py2.py3-none-any.whl
-prompt-toolkit @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/52/91/3e/026f5c3398f5e7c9a830e6321c4ef203d2a7765ca016e409fe9491d0cb/prompt_toolkit-3.0.14-py3-none-any.whl
-ptyprocess @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/af/cd/8c/c1510ca357886f8af9948e5555f25db9e360b1dd798566e6e9540c3442/ptyprocess-0.7.0-py2.py3-none-any.whl
-pycparser @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/44/e9/07/88a70ff44631b83a33a8011053104dffbca00761b983eff85051639df2/pycparser-2.20-py2.py3-none-any.whl
-Pygments @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/2d/f4/f5/8218410888226f1b85b957de0ac721d7855496467f7d205e49a3b17df6/Pygments-2.7.4-py3-none-any.whl
-pylint @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/07/0d/bc/232b9f0796002b4627af1249cb2b8c1b2a19e6e67176237629bcbba3be/pylint-2.6.0-py3-none-any.whl
-pyparsing @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/78/8b/03/23dc60df50f099a658dd13c86d7d94564b0b86bfa2ff61bc9595fb2fcb/pyparsing-2.4.7-py2.py3-none-any.whl
-pyrsistent @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/82/fd/98/fab6ad55bd376f1da134a3376cf61717a18104b408383b860716048249/pyrsistent-0.17.3.tar.gz
-python-dateutil @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/75/fa/68/ee8cf8ee229ebfb7947af0398184c39bbf243b7dc67ee46cca45938d09/python_dateutil-2.8.1-py2.py3-none-any.whl
-python-dotenv @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/5a/1d/05/e6e86cdabd76fde52798989d48b84502ba8b0b5ea07cb5f18774e637ad/python_dotenv-0.15.0-py2.py3-none-any.whl
-pytz @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/0c/d0/94/bbd2fee71be292862261e85cefb2231b1df628c7a0e5cb0170d8304963/pytz-2021.1-py2.py3-none-any.whl
-pyzmq @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/be/12/b2/ab96bd0271cdbc8d0a0a44754842da6d78bbc8f0c47d5cf8020ba2ba1b/pyzmq-22.0.2-cp37-cp37m-macosx_10_9_x86_64.whl
-regex @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/40/99/ee/064580b552a1f7043714aac9f3ee22ee9bc8b7cd168943a7ecac8ec644/regex-2020.11.13-cp37-cp37m-macosx_10_9_x86_64.whl
-requests @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/be/4b/1a/84d4c82fc2f19072e7d4b9f011e706eb8abff146587a9b74ed9d016049/requests-2.15.1-py2.py3-none-any.whl
-retrying @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/6c/d1/32/bc227443175c6cbda29cb0f6dcd2544f7f17fb989d92b832ad28c0c86f/retrying-1.3.3.tar.gz
-Send2Trash @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/65/5c/cf/74efc7119c07b06a3e5f3f1e4ffc62bd28315db7decee27e42ff7f5ee0/Send2Trash-1.5.0-py3-none-any.whl
-six @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/e3/96/48/99c14ba5c6276fbf4dc2e216553590ec97b52e685863f73e39550418c5/six-1.15.0-py2.py3-none-any.whl
-sniffio @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/b9/dd/a5/83174b936f8c8a9706b022caff72ba4d3c573a1946843e5390a46c0f11/sniffio-1.2.0-py3-none-any.whl
-terminado @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/0d/77/ec/5aa84d5be9df1498b8f2662e282b94f70a23bd8d0a4efa2dc857a9a163/terminado-0.9.2-py3-none-any.whl
-testpath @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/20/41/61/40209212e3cc4ead6910ce1a83532987e232f01564d9e48fd1c1e2e12e/testpath-0.4.4-py2.py3-none-any.whl
-toml @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/4f/28/bf/d86336a479a830a4e11505920e408af09c2f5c129c3b59500aa93387fb/toml-0.10.2-py2.py3-none-any.whl
-tornado @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/e7/ec/76/3fc03760638624f7c568abe4e3e3d92213c74fe2605427d2776fe349ad/tornado-6.1-cp37-cp37m-macosx_10_9_x86_64.whl
-traitlets @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/25/0f/c0/2c71bbe86bec170e00a2ee9ef2af2df7b4504fbaf1e8e717622fd1d5b4/traitlets-5.0.5-py3-none-any.whl
-typed-ast @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/f8/03/76/f746d3ef80a2ef2c4167b686b0635bed9973ace130292b64aefbda7c0b/typed_ast-1.4.2-cp37-cp37m-macosx_10_9_x86_64.whl
-typing-extensions @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/5a/dd/8f/5dc09cb3732cb0be9ecae5854eaa6aa0d4cd95752163c65283ecf9bd34/typing_extensions-3.7.4.3-py3-none-any.whl
-wcwidth @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/92/12/86/71fde978823bd982c22bd549b0ba688e372403269396c892ac8160f4fe/wcwidth-0.2.5-py2.py3-none-any.whl
-webencodings @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/8e/39/d4/1735c959b3d85bebf80692957fe8ad83a2cb27de46bb08a6ababe12c44/webencodings-0.5.1-py2.py3-none-any.whl
-Werkzeug @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/94/31/68/656d114a5cdd8bdf57f8a0562e3e642a1b84e9c3955e2128d1d826930e/Werkzeug-1.0.1-py2.py3-none-any.whl
-wrapt @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/9f/ab/9f/20b5ec8073ba1c685e2c6dcdb1f697c7bd444a693314612ea47a6620fd/wrapt-1.12.1.tar.gz
-zipp @ file:///Users/thesofakillers/Library/Caches/pypoetry/artifacts/47/ee/1d/76a3e6ccf129bb715b25f36d98f73ea147d20c604bd264ce54a3e22808/zipp-3.4.0-py3-none-any.whl
+brotli==1.0.9; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+click==7.1.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+dash-core-components==1.15.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+dash-html-components==1.1.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+dash-renderer==1.9.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+dash-table==4.11.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+dash==1.19.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.3.0")
+flask-compress==1.8.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+flask==1.1.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+future==0.18.2; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+gunicorn==20.0.4; python_version >= "3.4"
+itsdangerous==1.1.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+jinja2==2.11.3; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+markupsafe==1.1.1; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+numpy==1.20.0; python_version >= "3.7" and python_full_version >= "3.7.1"
+pandas==1.2.1; python_full_version >= "3.7.1"
+plotly==4.14.3; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+python-dateutil==2.8.1; python_full_version >= "3.7.1"
+pytz==2021.1; python_full_version >= "3.7.1"
+retrying==1.3.3; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0"
+six==1.15.0; python_full_version >= "3.7.1"
+werkzeug==1.0.1; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
