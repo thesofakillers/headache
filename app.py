@@ -19,7 +19,15 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 server = app.server
 
-FIELDS = ["full_date", "Headache", "Exercise", "Ibuprofen", "Paracetamol", "Coffee"]
+FIELDS = [
+    "full_date",
+    "Headache",
+    "Exercise",
+    "Ibuprofen",
+    "Paracetamol",
+    "Coffee",
+    "Aimovig",
+]
 daylio_df = pd.read_csv(
     DAYLIO_PATH,
     usecols=FIELDS,
