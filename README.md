@@ -1,3 +1,6 @@
+> ARCHIVED: This repository has been archived and is no longer maintained, and
+> the webpage is no longer online. The code is kept here for reference.
+
 # My personal headache dashboard
 
 I get headaches a lot. Part of the advice given in tackling a headache problem
